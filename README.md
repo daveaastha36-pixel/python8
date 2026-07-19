@@ -1,2 +1,0 @@
-# python8
-ASSIGNMENT8
